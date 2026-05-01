@@ -16,7 +16,7 @@ chmod +x hformat
 to have the tool install on your machine as terminal command pick one of the
 following methods :
 
-[[method 1]](/docs/install_m1.md)
+[[method 1]](/docs/install_m1.md)</br>
 [[method 2]](/docs/install_m2.md)
 
 ## Usage
