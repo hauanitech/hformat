@@ -13,7 +13,7 @@ chmod +x hformat
 ./hformat.sh
 ```
 
-to have the tool install on your machine as terminal command pick one of the
+In order to have the tool installed on your machine as terminal command pick one of the
 following methods :
 
 [[method 1]](/docs/install_m1.md) (recommended)</br>
